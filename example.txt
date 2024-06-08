@@ -1,0 +1,19 @@
+Assistant is ready for chatting: session_id='1606193c-67b8-4264-98e6-581503d98f14'. Enter your first message.
+U: Book a meeting
+A: To set up a meeting, I'll need a few details. First, what's your **first** **name**?
+U: Alex
+A: Thanks! And what's your **last name**?
+U: Doe
+A: Where would you like me to **email** the calendar invite?
+U: alex_doe@mail.com
+A: **How** **long** would you like to meet for?
+U: 15 mins
+A: What **day** works best? Our offices are open Mondays through Fridays.
+U: Mon
+A: What **time** works best for you on Jun 10, 2024?
+U: 12 am
+A: Great. Just to confirm, you'd like to meet on **Jun 10, 2024** at **12:00 AM** for **15 minutes**.
+Is that correct?
+U: yes
+A: You're all set **Alex**. I've sent the calendar invite to your email at **alex_doe@mail.com**
+Enjoy the rest of your day.
